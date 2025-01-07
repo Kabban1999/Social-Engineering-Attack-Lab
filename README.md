@@ -1,15 +1,14 @@
-<h1>Lab 1 - Social Engineering Attack</h1>
+<h1>Lab 1 - PKI Management with Windows</h1>
 
 
 <h2>Description</h2>
-In this lab, I will construct a malicious EXE file, and see how an attacker could exploit people in order to gain access to a machine.
+In this lab, I will add the Active Directory Certificate Services role to a Windows server. You will then
+customize and configure the Windows server as a Certificate Authority (CA).
 <br />
 
 <h2>Environments Used </h2>
 
-- <b>Windows, and</b> 
-<b>Kali</b>
-
+- <b>Windows OS, and</b> 
 
 <h2>Program walk-through:</h2>
 
